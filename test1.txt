@@ -1,8 +1,9 @@
-
+White is the 0 (omnipresent color)
 Red is the 1st color
 Green is the 2nd color
-Orange is the 3rd commit
+Orange is pleasant and the 3rd commit
 Blue is the 4th color
 Brown is the 5th color
 Pink is 6th color
 Purple is 7th color
+Magenta is the 8th color
