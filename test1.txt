@@ -1,4 +1,4 @@
-red is the first color
-green is the second color
-orange is the third commit
+red is the 1st color
+green is the 2nd color
+orange is the 3rd commit
 blue is the 4th color
