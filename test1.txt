@@ -1,5 +1,7 @@
+
 red is the 1st color
 green is the 2nd color
 orange is the 3rd commit
 blue is the 4th color
 brown is the 5th color
+pink is 6th color
